@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 12:27:29 2019
-
-@author: didem.durmaz
-"""
 #vektörel çarpım a*b=a^T*b eşit benişlikteki arrayler için
 
 #vektörel çarpım a*b=mutlak(a*b)*cos0(ab arasındaki açı) eşit benişlikteki arrayler için
