@@ -13,3 +13,8 @@ for e in L:
     L2.append(e*e)  #L2=[1,4,9,16,64]
   
 print (A+A)       #A=[2,4,6]
+print(A**2)     #A=[2,4,6]
+print(L**2)         #hata! matematiksel değil
+np.sqrt(A)
+np.log(A)
+np.exp(A)
