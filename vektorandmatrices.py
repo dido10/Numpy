@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 14:25:35 2019
 
-@author: didem.durmaz
-"""
 import numpy as np
 
 L=[[1,2],[2,3]]
