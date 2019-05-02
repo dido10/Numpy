@@ -1,3 +1,4 @@
+#basic level array and list differences
 import numpy as np
 L=[1,2,3]
 A=np.array([1,2,3])
