@@ -1,5 +1,5 @@
 
-#hesaplama
+#lineer denklem- hesaplama
 import numpy as np
 import matplotlib.pyplot as mt
 df = dd.read_csv("linear_reg.csv",sep=";")
